@@ -1,4 +1,4 @@
-# Sentimental Analysis - 뱅크샐러드 프로젝트
+# Sentiment Analysis - 뱅크샐러드 프로젝트
 
 뱅크샐러드 어플리케이션을 대상으로 진행한 개인 프로젝트입니다.
 
